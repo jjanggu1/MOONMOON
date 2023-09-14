@@ -3,7 +3,7 @@
 <br/>
 
 ### 💻 Team  
-
+B-eesKnees[Frontend 2, Backend 3]
 <br/>
 
 ### ⌚ Project execution period
@@ -12,8 +12,6 @@
 <br/>
 
 ### 🛠 Development Environment  
-
-<br/>
 
 <p>
   <span>Frontend : </span>
