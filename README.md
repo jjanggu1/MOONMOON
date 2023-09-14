@@ -1,15 +1,19 @@
 ## 💡 Team Project2 💡 프론트엔드 신입 개발자 신동진의 두번째 팀프로젝트 입니다.
 
+<br/>
 
 ### 💻 Team  
 
+<br/>
 
 ### ⌚ Project execution period
 2023.07.21 ~ 2023.08.25  
 
+<br/>
 
 ### 🛠 Development Environment  
 
+<br/>
 
 <p>
   <span>Frontend : </span>
@@ -20,6 +24,7 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"/>
 </p>
+
 
 
 <p>
@@ -37,10 +42,10 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
 </p>
 
-
+<br/>
 
   🎞 시연영상 : 준비중...
 
-
+<br/>
 
 📃 Notion 👉 https://petalite-cheek-f6c.notion.site/f46eeafb61af412da21a65e60bcde155?pvs=4
