@@ -1,12 +1,12 @@
-### 💡 Team Project2 💡 프론트엔드 신입 개발자 신동진의 두번째 팀프로젝트 입니다.
+## 💡 Team Project2 💡 프론트엔드 신입 개발자 신동진의 두번째 팀프로젝트 입니다.
 
-<h2>💻 Team</h2>
+### 💻 Team
 B-eesKnees
 
-<h2>⌚ Project execution period</h2>
+### ⌚ Project execution period
 2023.07.21 ~ 2023.08.25
 
-<h2>🛠 Development Environment</h2>
+### 🛠 Development Environment
 <p>
   <span>Frontend : </span>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -29,7 +29,7 @@ B-eesKnees
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
 </p>
 <br>
-<p>🎞 시연영상 : 준비중...</p>
+  🎞 시연영상 : 준비중...
 <br>
  
 
