@@ -1,4 +1,4 @@
-## 💡 Team Project2 💡 사용자 맞춤형 도서 추천을 제공하는 도서 쇼핑몰
+## 💡 Team Project2 : MOONMOON 💡 사용자 맞춤형 도서 추천을 제공하는 도서 쇼핑몰 
 
 <br/>
 
@@ -52,4 +52,4 @@ B-eesKnees[Frontend 2, Backend 3]
 
 <br/>
 
-📃 Notion 👉 https://petalite-cheek-f6c.notion.site/f46eeafb61af412da21a65e60bcde155?pvs=4
+📃 MOONMOON Notion 👉 https://petalite-cheek-f6c.notion.site/f46eeafb61af412da21a65e60bcde155?pvs=4
