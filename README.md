@@ -1,4 +1,4 @@
-# WEAVE-WEGO
+# MOONMOON
 
 ### 💡 Team Project2 : MOONMOON 💡 사용자 맞춤형 도서 추천을 제공하는 도서 쇼핑몰 
 
