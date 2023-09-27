@@ -50,8 +50,6 @@ B-eesKnees[Frontend 2, Backend 3]
 
 <br/>
 
-  🎞 시연영상 : 준비중...
-
 <br/>
 
 📃 MOONMOON Notion 👉 https://petalite-cheek-f6c.notion.site/f46eeafb61af412da21a65e60bcde155?pvs=4
